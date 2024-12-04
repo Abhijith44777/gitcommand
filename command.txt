@@ -17,3 +17,7 @@
 >git config --global user.name "username" {for getting username}
 
 >git config --global user.email "useremail" {for getting useremail}
+
+>git remote add remote_name remote_path
+
+git push remote_nameb branch
