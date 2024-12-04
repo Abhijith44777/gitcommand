@@ -11,3 +11,9 @@
 >git push {local repositary changes to remote repositary}
 
 >git pull {change from remote repositary to local workspace}
+
+>git config --list {for listing config}
+ 
+>git config --global user.name "username" {for getting username}
+
+>git config --global user.email "useremail" {for getting useremail}
