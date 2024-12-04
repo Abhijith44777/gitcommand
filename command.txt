@@ -4,4 +4,10 @@
 
 >git add -A {for adding all untracked files to staging area} 
 
->git commit 
+>git commit -m "command message" {to commit added to local repositary}
+
+>git clone {exact copy from remote repositary to local repositary}
+
+>git push {local repositary changes to remote repositary}
+
+>git pull {change from remote repositary to local workspace}
